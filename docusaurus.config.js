@@ -11,7 +11,7 @@ async function createConfig() {
     title: 'Learn Prompting',
     tagline: 'A Free, Open Source Course on Communicating with Artificial Intelligence',
     url: 'https://learnprompting.org',
-    baseUrl: '/prompt_engineering/',
+    baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
