@@ -12,7 +12,7 @@ sidebar_position: 1
 
 ## 本课程唯一且最重要的部分是你的反馈！
 
-如果你有任何问题、评论或者建议，可以提出一个**[问题](https://github.com/trigaten/Learn_Prompting/issues/new/choose)**，或者发邮件给我，邮箱地址是learnprompting@gmail.com，或者在[Discord](https://learnprompting.org/discord)/[Twitter](https://twitter.com/learn_prompting)上讨论。
+如果你有任何问题、评论或者建议，可以提出一个**[问题](https://github.com/trigaten/Learn_Prompting/issues/new/choose)**，或者发邮件给我，邮箱地址是promptengineering11@gmail.com，
 
 即使是最小的反馈也很有价值！
 

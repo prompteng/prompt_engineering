@@ -14,7 +14,7 @@ sidebar_position: 1
 
 ## このコースで最も重要なのは、あなたのフィードバックです!
 
-質問、コメント、提案などがありましたら、**[issue](https://github.com/trigaten/Learn_Prompting/issues/new/choose)** を作成するか, learnprompting@gmail.com までメールをいただくか、 [Discord](https://learnprompting.org/discord)や[Twitter](https://twitter.com/learn_prompting) でご連絡ください。.
+質問、コメント、提案などがありましたら、**[issue](https://github.com/trigaten/Learn_Prompting/issues/new/choose)** を作成するか, promptengineering11@gmail.com 
 
 わずかな感想でも、とても参考になります!
 

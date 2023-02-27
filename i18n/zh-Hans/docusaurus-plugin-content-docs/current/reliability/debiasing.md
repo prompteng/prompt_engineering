@@ -8,7 +8,7 @@ sidebar_position: 3
 
 ## 样本去偏差
 
-根据样例在提示中的分布和顺序，%%exemplars|exemplars%% 可能会引起大语言模型（LLM）补全结果的偏差(@si2022prompting)。在[什么是提示](https://learnprompting.org/zh-Hans/docs/intermediate/whats_in_a_prompt)的内容页面中，这一点有所讨论。
+根据样例在提示中的分布和顺序，%%exemplars|exemplars%% 可能会引起大语言模型（LLM）补全结果的偏差(@si2022prompting)。在[什么是提示](https://promptdev.ai/zh-Hans/docs/intermediate/whats_in_a_prompt)的内容页面中，这一点有所讨论。
 
 ### 分布
 

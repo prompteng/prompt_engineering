@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Detecting AI generated text is a big problem for safety researchers and educators,
 among others. Tools like [GPTZero](https://gptzero.me), [GPT2 detector](https://openai-openai-detector.hf.space), and [bilingual detectors](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) have seen significant success,
-However, they can be [tricked](https://learnprompting.org/docs/miscl/trickery). 
+However, they can be [tricked](https://promptdev.ai/docs/miscl/trickery). 
 
 OpenAI and other researchers(@bansal2022certified)(@gu2022watermarking) are working to introduce statistical watermarking into their generated text, but this too may be fooled by modifying large portions of the text. 
 
@@ -37,4 +37,4 @@ It works by computing log probabilities from the model that was thought to have 
 
 ## Note
 
-For an additional discussion on the topic of detectors and how people are tricking them, see [this article](https://learnprompting.org/docs/miscl/trickery).
+For an additional discussion on the topic of detectors and how people are tricking them, see [this article](https://promptdev.ai/docs/miscl/trickery).

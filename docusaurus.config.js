@@ -10,7 +10,7 @@ async function createConfig() {
   return {
     title: 'Learn Prompting',
     tagline: 'A Free, Open Source Course on Communicating with Artificial Intelligence',
-    url: 'https://learnprompting.org',
+    url: 'https://promptdev.ai/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',

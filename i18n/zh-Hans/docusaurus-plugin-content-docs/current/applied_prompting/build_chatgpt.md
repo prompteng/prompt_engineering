@@ -39,7 +39,7 @@ ChatGPT是一种新的语言模型，由OpenAI进行了优化，从GPT-3进行�
   <p style={{color: "gray", fontSize: "12px", fontStyle: "italic"}}>Skippy chatbot完整的提示(prompt)</p>
 </div>
 
-<a href="https://learnprompting.org/docs/basics/prompting">提示是指示 AI 进行某些操作的过程。</a> 正如你可能在网上看到的 ChatGPT 的示例一样，你可以提示它做任何事情。常见的用例是总结文本、根据描述编写内容或创建诸如诗歌、食谱等等。
+<a href="https://promptdev.ai/docs/basics/prompting">提示是指示 AI 进行某些操作的过程。</a> 正如你可能在网上看到的 ChatGPT 的示例一样，你可以提示它做任何事情。常见的用例是总结文本、根据描述编写内容或创建诸如诗歌、食谱等等。
 
 <p></p>
 

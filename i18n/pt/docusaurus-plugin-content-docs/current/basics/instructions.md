@@ -59,7 +59,7 @@ E-mail: [ENDEREÇO DE E-MAIL]
 É bem legal perceber como o modelo pode ir além das instruções. Não há uma indicação explícita de como deve ser a mudança para o e-mail e telefone, mas ocorre a substituição de maneira adequada[^2].
 
 [^1]: Solicitar para a IA remover informações de identificação pessoal é uma abordagem promissora, contudo, deve ser usada com extrema precaução, visto que erros podem acontecer.
-[^2]: Comparando-se com o [*prompt* original](https://learnprompting.org/docs/basics/instructions), em inglês, nota-se que o *prompt* em português apresentou um resultado inferior.
+[^2]: Comparando-se com o [*prompt* original](https://promptdev.ai/docs/basics/instructions), em inglês, nota-se que o *prompt* em português apresentou um resultado inferior.
 
 
 ## Notes 

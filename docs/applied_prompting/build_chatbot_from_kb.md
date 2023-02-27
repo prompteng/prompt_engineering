@@ -63,9 +63,9 @@ Once we have the right document, we’ll need to create a good prompt to be used
 
 To craft the prompt, we’ll experiment using:
 
-- [**Role-prompting**](https://learnprompting.org/docs/basics/roles): a heuristic technique that assigns a specific role to the AI.
+- [**Role-prompting**](https://promptdev.ai/docs/basics/roles): a heuristic technique that assigns a specific role to the AI.
 - **Relevant KB information**, i.e. the document retrieved in the semantic search step.
-- **The last messages exchanged between the user and the chatbot**. These are useful for messages sent by the user where the whole context is not specified. We’ll see an example of it later. Have a look at [this example](https://learnprompting.org/docs/applied_prompting/build_chatgpt) to see how to manage conversations with GPT-3.
+- **The last messages exchanged between the user and the chatbot**. These are useful for messages sent by the user where the whole context is not specified. We’ll see an example of it later. Have a look at [this example](https://promptdev.ai/docs/applied_prompting/build_chatgpt) to see how to manage conversations with GPT-3.
 - Last, **the user question**.
 
 <div style={{textAlign: 'left'}}>

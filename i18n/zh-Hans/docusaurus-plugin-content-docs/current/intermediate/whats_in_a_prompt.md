@@ -41,4 +41,4 @@ import GoldUn from '@site/docs/assets/gold_unimportant.png';
 
 使用 4 到 8 个样本是适合用于少量示例提示的合适数字(@min2022rethinking) ，但通常尽可能多地提供样本会更有帮助。
 
-[^labelspace]: See the [vocabulary reference](https://learnprompting.org/docs/vocabulary#labels) for more info.
+[^labelspace]: See the [vocabulary reference](https://promptdev.ai/docs/vocabulary#labels) for more info.

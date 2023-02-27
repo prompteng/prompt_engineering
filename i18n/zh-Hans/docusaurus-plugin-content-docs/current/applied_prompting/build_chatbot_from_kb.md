@@ -63,9 +63,9 @@ import ImageLogin from '@site/docs/assets/chatbot_from_kb_login.png'
 
 为了制作提示，我们将尝试使用以下内容
 
-- [**角色提示**](https://learnprompting.org/docs/basics/roles): 一种启发式技术，为AI分配特定的角色。
+- [**角色提示**](https://promptdev.ai/docs/basics/roles): 一种启发式技术，为AI分配特定的角色。
 - **相关的知识库信息**, 即在语义搜索步骤中检索到的文档。
-- **用户和聊天机器人之间最后一次交换的消息**. 这对于用户发送的未指定整个上下文的消息非常有用。我们将在后面的例子中看到它。请查看[此示例](https://learnprompting.org/docs/applied_prompting/build_chatgpt) 了解如何使用GPT-3管理对话。
+- **用户和聊天机器人之间最后一次交换的消息**. 这对于用户发送的未指定整个上下文的消息非常有用。我们将在后面的例子中看到它。请查看[此示例](https://promptdev.ai/docs/applied_prompting/build_chatgpt) 了解如何使用GPT-3管理对话。
 - 最后, **用户的问题**.
 
 <div style={{textAlign: 'left'}}>
