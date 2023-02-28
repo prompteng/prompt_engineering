@@ -33,6 +33,8 @@ function HomepageHeader() {
             </Link>
           </div>
         </div>
+
+      
        
       </div>
     </header>
@@ -56,7 +58,7 @@ export default function Home() {
         <div class="text--center padding-horiz--md">
           
           <hr class="bg--secondary" />
-          <h1 class="margin-vert--xl">Media on Learn Prompting</h1>
+          <h1 class="margin-vert--xl">Learning videos on Prompt Engineering</h1>
           <div className="container" style={{ marginBottom: "20px" }}>
             <div className="row">
             <div className={clsx("col col--6")}>

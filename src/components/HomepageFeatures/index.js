@@ -4,17 +4,17 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "Easy to Use",
+    title: "Get Started Quickly",
     Svg: require("@site/static/img/astronaut.png").default,
-    description: <>Built for beginners</>,
+    description: <>Start coding in minutes</>,
   },
   {
-    title: "Focus on What Matters",
+    title: "Focus on your use case",
     Svg: require("@site/static/img/computer.png").default,
-    description: <>Spend less time for better LLM results</>,
+    description: <>Spend less time on technical part of LLM</>,
   },
   {
-    title: "Shoot for the Moon",
+    title: "Learn from Pro",
     Svg: require("@site/static/img/rocket.png").default,
     description: <>Learn advanced prompt engineering</>,
   },

@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import Link from '@docusaurus/Link';
 
 export default function GitHub() {
-    let url = "https://github.com/trigaten/Learn_Prompting"
+    let url = "https://github.com/prompteng/prompt_engineering"
     useEffect(() => {
         window.location.href = url;
     }, []);

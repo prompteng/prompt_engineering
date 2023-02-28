@@ -45,8 +45,7 @@ async function createConfig() {
             sidebarPath: require.resolve('./sidebars.js'),
             // Please change this to your repo.
             // Remove this to remove the "edit this page" links.
-            editUrl:
-              'https://github.com/trigaten/promptgineering/tree/v1.1.3',
+            
             remarkPlugins: [
               math,
               (await import("remark-gfm")).default,
