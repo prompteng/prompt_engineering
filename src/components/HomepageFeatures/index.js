@@ -5,17 +5,17 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Get Started Quickly",
-    Svg: require("@site/static/img/astronaut.png").default,
+    Svg: require("@site/static/img/ai.jpg").default,
     description: <>Start coding in minutes</>,
   },
   {
     title: "Focus on your use case",
-    Svg: require("@site/static/img/computer.png").default,
+    Svg: require("@site/static/img/brain.png").default,
     description: <>Spend less time on technical part of LLM</>,
   },
   {
     title: "Learn from Pro",
-    Svg: require("@site/static/img/rocket.png").default,
+    Svg: require("@site/static/img/pro.png").default,
     description: <>Learn advanced prompt engineering</>,
   },
 ];
