@@ -14,7 +14,6 @@ sidebar_position: 1
 
 ## このコースで最も重要なのは、あなたのフィードバックです!
 
-質問、コメント、提案などがありましたら、**[issue](https://github.com/trigaten/Learn_Prompting/issues/new/choose)** を作成するか, promptengineering11@gmail.com 
 
 わずかな感想でも、とても参考になります!
 
@@ -24,7 +23,7 @@ sidebar_position: 1
 このコースも新しいテクニックに関する短い記事を頻繁に更新していきます。 
 あなたがもっと聞きたいことを教えてください!
 
-この考え方の一部は、 **エラー・イテレーション** があります.もし、あなたが何かわからないことがあったら、たとえ小さなことでも、それは私の責任です。ぜひ、 **[issue](https://github.com/trigaten/Learn_Prompting/issues/new/choose)** を発行してください!
+
 
 
 **実用性を重視する** - 私はすぐにアプリケーションで使える実用的なテクニックに焦点を当てます。

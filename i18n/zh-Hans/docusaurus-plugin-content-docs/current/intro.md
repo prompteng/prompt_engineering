@@ -12,7 +12,6 @@ sidebar_position: 1
 
 ## 本课程唯一且最重要的部分是你的反馈！
 
-如果你有任何问题、评论或者建议，可以提出一个**[问题](https://github.com/trigaten/Learn_Prompting/issues/new/choose)**，或者发邮件给我，邮箱地址是promptengineering11@gmail.com，
 
 即使是最小的反馈也很有价值！
 
@@ -20,7 +19,6 @@ sidebar_position: 1
 
 **快速迭代**：因为提示工程的内容日新月异，所以我会经常更新本课程，用短文章来介绍新技术。让我知道你更想了解什么内容。
 
-这其中包括**错误迭代**。如果你看到了一些你不太理解的内容，即使是很小的，也是我的问题。**请提出一个[问题](https://github.com/trigaten/Learn_Prompting/issues/new/choose)！**
 
 **关注实践**：我会聚焦于应用部分，特别是一些你可以直接使用的技巧。
 

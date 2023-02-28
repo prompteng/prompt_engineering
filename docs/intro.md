@@ -27,8 +27,6 @@ Even the smallest amount of feedback is very helpful!
 I will update this course frequently with short articles about new techniques.
 Let me know what you want to hear more about!
 
-Part of this philosophy is **error iteration**. If you ever see something that you
-don't quite understand, even something small, that's on me. **Please make an [issue on GitHub](https://github.com/trigaten/Learn_Prompting/issues/new/choose)**!
 
 **Focus on Practicality** - We will focus on applied, practical techniques that you can use immediately for your applications.
 

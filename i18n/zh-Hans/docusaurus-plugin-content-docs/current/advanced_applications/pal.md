@@ -111,7 +111,6 @@ print(result)
 
 输出是 **210**，这是正确的答案。
 
-可以在Jupyter 笔记本查看这个[例子](https://github.com/trigaten/Learn_Prompting/tree/main/docs/code_examples/PAL.ipynb)。
 ## 更多
 
 也可以看看 [PAL's colab example](https://colab.research.google.com/drive/1u4_RsdI0E79PCMDdcPiJUzYhdnjoXeXc?usp=sharing#scrollTo=Ba0ycacK4i1V).

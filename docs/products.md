@@ -4,7 +4,7 @@ sidebar_position: 2500
 
 # 📦 Prompted Products
 
-Here is a growing list of notable products that use prompting. If you have a product that you would like to add, please [open a PR](https://github.com/trigaten/Learn_Prompting/pulls).
+Here is a growing list of notable products that use prompting. 
 
 ## Content Writing
 

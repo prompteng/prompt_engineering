@@ -27,7 +27,6 @@ Nos dê sua opinião sobre o que você tem mais interesse em aprender!
 
 Parte desta filosofia é **iteração errática**. Se você encontrar algo que você não entendeu, mesmo que seja algo pequeno, avise-nos.
 
-Abra um tópico no [GitHub](https://github.com/trigaten/Learn_Prompting/issues/new/choose)!
 
 ### Foco na Praticidade
 

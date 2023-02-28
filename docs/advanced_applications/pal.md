@@ -119,7 +119,6 @@ print(result)
 
 The output is **210**, which is correct.
 
-See the Jupyter notebook for this example [here](https://github.com/trigaten/Learn_Prompting/tree/main/docs/code_examples/PAL.ipynb).
 
 ## More
 
