@@ -8,8 +8,8 @@ const math = require('remark-math');
 async function createConfig() {
   const katex = (await import('rehype-katex')).default;
   return {
-    title: 'Learn Prompting',
-    tagline: 'A Free, Open Source Course on Communicating with Artificial Intelligence',
+    title: 'Learn Prompt Engineering',
+    tagline: 'Best Learning Course on Prompt Engineering',
     url: 'https://promptdev.ai/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -18,8 +18,8 @@ async function createConfig() {
   
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'trigaten', // Usually your GitHub org/user name.
-    projectName: 'promptgineering', // Usually your repo name.
+    organizationName: 'prompteng', // Usually your GitHub org/user name.
+    projectName: 'prompt_engineering', // Usually your repo name.
     deploymentBranch: 'gh-pages',
     trailingSlash: false,
     // Even if you don't use internalization, you can use this field to set useful
@@ -84,45 +84,24 @@ async function createConfig() {
     themeConfig:
       ({
         navbar: {
-          title: 'Learn Prompting',
+          title: 'Prompt Development',
           logo: {
             alt: 'My Site Logo',
             src: 'img/simple_ai.png',
           },
           items: [
-            {to: 'docs/intro', label:"Learn", position:"left"},
-            {to: 'contribute', label:"Contribute", position:"left"},
-            {to: 'supporters', label:"Supporters", position:"left"},
-            {
-              to: 'certificate', 
-              label:"Certificate", 
-              position:"left",          
-            },
+            {to: 'docs/intro', label:"Learn Prompt Engineering", position:"left"},
             {
               to: 'consulting', 
               label:"Consulting", 
               position:"left",          
               className: 'consulting-gradient',
-            },
-            {
-              type: 'localeDropdown',
-              position: 'right',
-            },
-            {
-              href: 'https://github.com/trigaten/Learn_Prompting/releases',
-              label: 'Change Log',
-              position: 'right',
-            },
-            {
-              href: 'https://github.com/trigaten/promptgineering',
-              label: 'GitHub',
-              position: 'right',
             }
           ],
         },
         footer: {
           style: 'dark',
-          copyright: `Copyright © ${new Date().getFullYear()} Learn Prompting.`,
+          copyright: `Copyright © ${new Date().getFullYear()} Prompt Engineering.`,
         },
         prism: {
           theme: lightCodeTheme,
