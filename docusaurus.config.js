@@ -36,10 +36,10 @@ async function createConfig() {
         'classic',
         ({
           gtag: {
-            trackingID: 'G-FV0C417KS8',
+            trackingID: 'G-18H7XQMVJL',
           },
           googleAnalytics: {
-            trackingID: 'G-FV0C417KS8',
+            trackingID: 'G-18H7XQMVJL',
           },
           docs: {
             sidebarPath: require.resolve('./sidebars.js'),
