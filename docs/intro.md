@@ -16,7 +16,6 @@ This course focuses on applied PE techniques, and we expect readers to have mini
 ## The single most important part of this course is your feedback!
 If you have any questions, comments, or suggestions, you can:
   - Email us at [promptengineering11@gmail.com](mailto:promptengineering11@gmail.com)
-  - Follow us on [Twitter](https://twitter.com/learnprompting)
   - We also have a [Consulting Interest Form](https://promptdev.ai/consulting)
 
 Even the smallest amount of feedback is very helpful!
