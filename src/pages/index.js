@@ -34,9 +34,23 @@ function HomepageHeader() {
           </div>
         </div>
 
+        <br/>
       
+        <div className={styles.buttons}>
+          
+          <div>
+            <Link
+              className="button button--primary button--lg"
+              to="/consulting"
+            >
+              Get Consulting Help
+            </Link>
+          </div>
+        </div>
        
       </div>
+
+      
     </header>
   );
 }
